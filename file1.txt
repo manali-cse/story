@@ -1,1 +1,1 @@
-We are trying to learn Full stack development.
+We are trying to learn Full stack development from Angel Yu in Udemy.
